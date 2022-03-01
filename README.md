@@ -19,15 +19,39 @@ Para desarrollar la aplicacion se trabajo en un total de 6 pantallas con un codi
 
    1. Dentro de la pantalla de carga se agrego el nombre de la app, ademas de una imagen y una barra    de carga, tambien se detalla el codigo empleado dentro de esta pantalla de carga para su correcto    funcionamiento.
 
-   2. La segunda pantalla contiene el menú el cual presenta las 4 opciones requeridas para el programa, el menú contiene un codigo simple para poder ejecutar su funcion de seleccion.
-   
-   3. La tercera pantalla se observa la primera opción solicitada acerca del calculo de amplificadores operacionales de sumador.
-   
-   4. La cuarta pantalla se observa la segunda opción solicitada acerca del calculo de amplificadores operacionales restador, ademas de un    boton que permite regresar al menu principal.
-   
+![image](https://user-images.githubusercontent.com/94079321/156176835-e9eb3609-0ef1-4fbc-8637-b234e2b9b267.png)
+
+![image](https://user-images.githubusercontent.com/94079321/156177218-2f1cc10a-f28e-488c-8a6c-7e539c720105.png)
+
+   2. La segunda pantalla contiene el menú el cual presenta las 4 opciones requeridas para el            programa, el menú contiene un codigo simple para poder ejecutar su funcion de seleccion.
+
+![image](https://user-images.githubusercontent.com/94079321/156177263-1ce2169c-9c8b-4621-8180-6b8d7e8994c4.png)
+
+![image](https://user-images.githubusercontent.com/94079321/156177291-f2a43b01-8b28-4613-ba77-c8324fce64f7.png)
+
+   3. La tercera pantalla se observa la primera opción solicitada acerca del calculo de                  amplificadores operacionales de sumador.
+
+![image](https://user-images.githubusercontent.com/94079321/156181929-776ae564-e374-4722-b9c6-8cbb90b5298d.png)
+
+![image](https://user-images.githubusercontent.com/94079321/156182016-aef5cd76-793e-43b3-83d1-f9528a3438bb.png)
+ 
+   4. La cuarta pantalla se observa la segunda opción solicitada acerca del calculo de amplificadores operacionales restador, ademas de un boton que permite regresar al menu        principal.
+  
+![image](https://user-images.githubusercontent.com/94079321/156185926-a3755442-f3d7-4f7a-95b4-f6d186830e28.png)
+
+![image](https://user-images.githubusercontent.com/94079321/156186009-8f044b75-08dd-4d8b-96db-2b759bb05fb0.png)
+
    5. La quinta pantalla se observa la primera opción solicitada acerca del calculo de amplificadores operacionales multiplicador.
-   
+
+![image](https://user-images.githubusercontent.com/94079321/156186150-1e7b86b9-4cd7-4d89-b065-546bfca457dd.png)
+
+![image](https://user-images.githubusercontent.com/94079321/156186207-05e7160f-35cc-4f50-8787-637a09e2f125.png)
+
    6. La sexta pantalla se observa la primera opción solicitada acerca del calculo de amplificadores operacionales integrador.
+
+![image](https://user-images.githubusercontent.com/94079321/156186336-abe32ddf-dea7-4188-a31a-2c2ab48e4ff6.png)
+
+![image](https://user-images.githubusercontent.com/94079321/156186371-bda2efb5-2f89-4fe2-9ec2-460ad1c26de7.png)
 
 -APK DEL PROGRAMA
 
