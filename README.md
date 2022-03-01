@@ -92,4 +92,5 @@ https://github.com/Samuf01/TrabajoR/blob/main/lol%7B/Simplificator.aab
 3. Conclusiones
 4. Bibliografia
 5. Vídeo
+
 6. Código Fuente
