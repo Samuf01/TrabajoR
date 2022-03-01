@@ -47,6 +47,7 @@ Ing. Diego Meza M. (2018, 24 marzo). USO DE APP INVENTOR - TEXTBOX Y ECUACIONES 
 
 5. Vídeo
 
+https://youtu.be/xi98m4Lf0EQ
 
 6. Código Fuente
 
