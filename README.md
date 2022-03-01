@@ -31,6 +31,8 @@ Para desarrollar la aplicacion se trabajo en un total de 6 pantallas con un codi
 
 -APK DEL PROGRAMA
 
+https://github.com/Samuf01/TrabajoR/blob/main/lol%7B/Simplificator.apk
+
 3. Conclusiones
 
 - App Inventor es una sitio donde el poder crear una aplicación lo simplifica de la forma adecuada, sin embargo se necesita conocimientos basicos sobre programación para poder desarrollar apps mas especializadas
@@ -50,6 +52,8 @@ Ing. Diego Meza M. (2018, 24 marzo). USO DE APP INVENTOR - TEXTBOX Y ECUACIONES 
 https://youtu.be/xi98m4Lf0EQ
 
 6. Código Fuente
+
+https://github.com/Samuf01/TrabajoR/blob/main/lol%7B/Simplificator.aab
 
 # Trabajo de recuperación 2
 
