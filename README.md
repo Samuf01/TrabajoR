@@ -79,18 +79,3 @@ https://youtu.be/xi98m4Lf0EQ
 
 https://github.com/Samuf01/TrabajoR/blob/main/lol%7B/Simplificator.aab
 
-# Trabajo de recuperación 2
-
-1. Objetivos
-
-  1.1. Objetivo General
-  1.2. Objetivo Especifico
-  
-2. Desarrollo
--APK DEL PROGRAMA
-
-3. Conclusiones
-4. Bibliografia
-5. Vídeo
-
-6. Código Fuente
