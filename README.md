@@ -79,3 +79,5 @@ https://youtu.be/xi98m4Lf0EQ
 
 https://github.com/Samuf01/TrabajoR/blob/main/lol%7B/Simplificator.aab
 
+
+
