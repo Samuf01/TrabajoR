@@ -29,7 +29,7 @@ Para desarrollar la aplicacion se trabajo en un total de 6 pantallas con un codi
 
 ![image](https://user-images.githubusercontent.com/94079321/156177291-f2a43b01-8b28-4613-ba77-c8324fce64f7.png)
 
-   3. La tercera pantalla se observa la primera opción solicitada acerca del calculo de amplificadores operacionales de sumador. El bloque de código inicial asemeja la formula      planteada, sin embargo el código manejado debe ser de forma cuidadosa ya que al construir los bloques de codigos se necesita suponer las operaciones por lo que pueden existir    confuciones y programar la formula de manera erronea.
+   3. La tercera pantalla se observa la primera opción solicitada acerca del calculo de amplificadores operacionales de sumador. El bloque de código inicial asemeja la formula      planteada, sin embargo el código manejado debe ser de forma cuidadosa ya que al construir los bloques de codigos se necesita suponer las operaciones por lo que pueden existir    confuciones y programar la formula de manera erronea. 
 
 ![image](https://user-images.githubusercontent.com/94079321/156181929-776ae564-e374-4722-b9c6-8cbb90b5298d.png)
 
